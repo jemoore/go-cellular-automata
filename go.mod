@@ -1,4 +1,4 @@
-module github.com/jemoore/go-game-of-life
+module github.com/jemoore/go-cellular-automata
 
 go 1.21.0
 
